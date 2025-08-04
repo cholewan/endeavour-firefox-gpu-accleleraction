@@ -29,7 +29,7 @@ vainfo: Supported profile and entrypoints
       VAProfileHEVCMain12             : VAEntrypointVLD
 ```
 
-## 4. In firefox set optnions in `about:config` page:
+## 4. In firefox set optnions in `about:config` page
 | Option | Value |
 | --- | --- |
 | gfx.webrender.all | true |
@@ -48,7 +48,7 @@ LIBVA_DRIVER_NAME=nvidia
 In page `about:support` you can veryfi by looking for hardware decoding 
 
 ## 7. Install extenction for better expirience
-`https://addons.mozilla.org/en-US/firefox/addon/enhanced-h264ify/`
+https://addons.mozilla.org/en-US/firefox/addon/enhanced-h264ify/
 In addon block codecs that are unsupported by your browser.
 
 
