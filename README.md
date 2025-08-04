@@ -1,4 +1,4 @@
-# endeavour-firefox-gpu-accleleraction
+# linux-firefox-gpu-accleleraction-guide
 This guide is only for nvidia cards.
 
 ## 1. Install VA-API
